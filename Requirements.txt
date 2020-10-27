@@ -3,7 +3,7 @@ PyYAML==3.11
 Pygments==2.0.2
 bpython==0.13.2
 cffi==0.8.6
-cryptography==0.7.2
+cryptography==3.2
 enum34==1.0.4
 httplib2==0.9
 httpretty==0.8.3
