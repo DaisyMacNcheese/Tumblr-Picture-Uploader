@@ -1,5 +1,5 @@
 PyTumblr==0.0.6
-PyYAML==3.11
+PyYAML==5.4
 Pygments==2.0.2
 bpython==0.13.2
 cffi==0.8.6
